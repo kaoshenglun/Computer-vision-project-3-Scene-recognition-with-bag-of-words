@@ -1,0 +1,1 @@
+# Computer-vision-project-3-Scene-recognition-with-bag-of-words
